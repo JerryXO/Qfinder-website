@@ -1,0 +1,21 @@
+.m123{
+    padding-top: 3%;
+}
+
+#p123{
+    text-align: center;
+    font-size: 50px;
+}
+
+.m111{
+    padding-top: 7%;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 8%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.p111{
+    font-size: 25px;
+}
